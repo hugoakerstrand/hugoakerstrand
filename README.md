@@ -5,7 +5,7 @@ I also love working with code and am always thinking about some new fun project!
 
 As of September 2023, I only work in R (Tidyverse).
 
-- 🔭 I’m currently working on: an application in R (TBA)
+- 🔭 I’m currently working on: an application in R ([check out my GitHub pages](https://hugoakerstrand.github.io/))
 - 🌱 I’m currently learning: Python & Shiny
 - 💬 Ask me about: R Tidyverse
 - 📫 How to reach me: [email me](mailto:hugo.akerstrand@gmail.com)
