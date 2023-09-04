@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunology from Lund University, Sweden.
+
 I also love working with code and am always thinking about some new fun project! As of September 2023, I only work in R (Tidyverse).
 
 - 🔭 I’m currently working on: an application in R (TBA)
