@@ -1,9 +1,7 @@
 ### Hi there 👋
-I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunology from Lund University, Sweden ([Pubmed profile](https://pubmed.ncbi.nlm.nih.gov/?term=Hugo+%C3%85kerstrand&sort=date&size=50)).
-
+I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunology from Lund University, Sweden ([Pubmed profile](https://pubmed.ncbi.nlm.nih.gov/?term=Hugo+%C3%85kerstrand&sort=date&size=50)).  
 I also love working with code and am always thinking about some new fun project! 
 
-As of September 2023, I only work in R (Tidyverse).
 
 - 🔭 I’m currently working on: an application in R 
 - 🌱 I’m currently learning: Python & Shiny
