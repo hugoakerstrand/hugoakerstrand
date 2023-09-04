@@ -8,7 +8,7 @@ As of September 2023, I only work in R (Tidyverse).
 - 🔭 I’m currently working on: an application in R ([check out my GitHub page](https://hugoakerstrand.github.io/))
 - 🌱 I’m currently learning: Python & Shiny
 - 💬 Ask me about: R Tidyverse
-- 📫 How to reach me: [email me](mailto:hugo.akerstrand@gmail.com)
+- 📫 [Email me](mailto:hugo.akerstrand@gmail.com)
 <!--
 **hugoakerstrand/hugoakerstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
