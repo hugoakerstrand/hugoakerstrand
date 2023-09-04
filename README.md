@@ -5,7 +5,7 @@ I also love working with code and am always thinking about some new fun project!
 
 As of September 2023, I only work in R (Tidyverse).
 
-- 🔭 I’m currently working on: an application in R ([check out my GitHub page](https://hugoakerstrand.github.io/))
+- 🔭 I’m currently working on: an application in R 
 - 🌱 I’m currently learning: Python & Shiny
 - 💬 Ask me about: R Tidyverse
 - 📫 [Email me](mailto:hugo.akerstrand@gmail.com)
@@ -13,6 +13,8 @@ As of September 2023, I only work in R (Tidyverse).
 **hugoakerstrand/hugoakerstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+([check out my GitHub page](https://hugoakerstrand.github.io/))
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
