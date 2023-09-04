@@ -7,7 +7,6 @@ As of September 2023, I only work in R (Tidyverse).
 
 - 🔭 I’m currently working on: an application in R 
 - 🌱 I’m currently learning: Python & Shiny
-- 💬 Ask me about: self-reactive B cells in early-life 
 - 📫 [Email me](mailto:hugo.akerstrand@gmail.com)
 <!--
 **hugoakerstrand/hugoakerstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ As of September 2023, I only work in R (Tidyverse).
 Here are some ideas to get you started:
 
 ([check out my GitHub page](https://hugoakerstrand.github.io/))
-
+- 💬 Ask me about: self-reactive B cells in early-life 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
