@@ -3,7 +3,7 @@ I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunolog
 I also love working with code and am always thinking about some new fun project! 
 
 
-- 🔭 I’m currently working on: an application in R 
+- 🔭 I’m currently working on: tidy(ing) flow cytometry data analysis using R 
 - 🌱 I’m currently learning: Python & Shiny
 - 📫 [Email me](mailto:hugo.akerstrand@gmail.com)
 <!--
