@@ -4,7 +4,7 @@ I also love working with code and am always thinking about some new fun project!
 
 
 - 🔭 I’m currently working on: tidy(ing) flow cytometry data analysis using R 
-- 🌱 I’m currently learning: Python & Shiny
+- 🌱 I’m currently learning: Tidymodels
 - 📫 [Email me](mailto:hugo.akerstrand@gmail.com)
 <!--
 **hugoakerstrand/hugoakerstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
