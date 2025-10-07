@@ -3,8 +3,8 @@ I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunolog
 I also love working with code and am always thinking about some new fun project! 
 
 
-- 🔭 I’m currently working on: tidy(ing) flow cytometry data analysis using R 
-- 🌱 I’m currently learning: Tidymodels
+- 🔭 I’m currently working on: automating intermediate data analysis using Quarto
+- 🌱 I’m currently learning: DuckDB, ragnar, Shiny, Quarto
 - 📫 [Email me](mailto:hugo.akerstrand@gmail.com)
 <!--
 **hugoakerstrand/hugoakerstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
