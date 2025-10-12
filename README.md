@@ -1,8 +1,10 @@
 ### Hi there 👋
 ---
 Thanks for stopping by! 
+
 I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunology from Lund University, Sweden.
-I use code to **simplify** data complexity, ensure **reproducibility**, and **automate** analysis for mhy work in life science.
+
+I use code to **simplify** data complexity, ensure **reproducibility**, and **automate** analysis for my work in the pharma industry.
 
 ### Selected resources
 ---
