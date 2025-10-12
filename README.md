@@ -19,8 +19,8 @@ I use code to **simplify** data complexity, ensure **reproducibility**, and **au
   - Personal website
     
 - 📖 Active learning litterature:
- - [R Packages 2e](https://r-pkgs.org/)
- - [ISL](https://www.statlearning.com/)
+  - [R Packages 2e](https://r-pkgs.org/)
+  - [ISL](https://www.statlearning.com/)
    
 - ✨ Learning goals:
   - [Shiny](https://github.com/rstudio/shiny)  
