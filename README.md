@@ -6,7 +6,7 @@ I use code to **visualize** data, ensure **reproducibility**, and **automate** a
 
 ### Selected resources
 ---
- - Personal website *under construction 2025*
+ - *Personal website under construction 2025*
  - [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Hugo+%C3%85kerstrand&sort=date&size=50).
  - [Linkedin](https://www.linkedin.com/in/hugo-%C3%A5kerstrand-74696655/)
 
