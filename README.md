@@ -1,7 +1,5 @@
 ### Hi there 👋
 ---
-Thanks for stopping by! 
-
 I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunology from Lund University, Sweden.
 
 I use code to **visualize** data, ensure **reproducibility**, and **automate** analysis for my work in the pharma industry.
