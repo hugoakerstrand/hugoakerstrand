@@ -1,19 +1,29 @@
 ### Hi there 👋
 ---
 Thanks for stopping by! 
-
 I'm Hugo, a life scientist by training, holding a PhD in Developmental Immunology from Lund University, Sweden.
-
 I use code to **simplify** data complexity, ensure **reproducibility**, and **automate** analysis for mhy work in life science.
 
 ### Selected resources
 ---
- - ([Pubmed profile](https://pubmed.ncbi.nlm.nih.gov/?term=Hugo+%C3%85kerstrand&sort=date&size=50)).  
+ - Personal website *under construction*
+ - [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Hugo+%C3%85kerstrand&sort=date&size=50).
+ - [Linkedin](https://www.linkedin.com/in/hugo-%C3%A5kerstrand-74696655/)
 
 ### What I am working on
 ---
-- 🔭 I’m currently working on: automating intermediate data analysis using Quarto
-- 🌱 I’m currently learning: DuckDB, ragnar, Shiny, Quarto
+- 🌱 Active project(s):
+  - R package for flow cytometry data analysis
+  - Personal website
+    
+- 📖 Active learning litterature:
+ - [R Packages 2e](https://r-pkgs.org/)
+ - [ISL](https://www.statlearning.com/)
+   
+- ✨ Learning goals:
+  - [Shiny](https://github.com/rstudio/shiny)  
+  - [DuckDB](https://github.com/duckdb/duckdb-r)
+  - [ragnar](https://github.com/tidyverse/ragnar)
 
 <!--
 **hugoakerstrand/hugoakerstrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
