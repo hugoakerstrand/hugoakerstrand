@@ -12,7 +12,7 @@ I use code to **visualize** data, ensure **reproducibility**, and **automate** a
 
 ### What I am working on
 ---
--  Active project(s) 🌱:
+- Active project(s) 🌱:
   - R package for flow cytometry data analysis
   - Personal website
     
