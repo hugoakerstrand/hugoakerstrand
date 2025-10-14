@@ -12,15 +12,15 @@ I use code to **visualize** data, ensure **reproducibility**, and **automate** a
 
 ### What I am working on
 ---
-- 🌱 Active project(s):
+-  Active project(s) 🌱:
   - R package for flow cytometry data analysis
   - Personal website
     
-- 📖 Active learning litterature:
+- Active learning litterature 📖:
   - [R Packages 2e](https://r-pkgs.org/)
   - [ISL](https://www.statlearning.com/)
    
-- ✨ Background work:
+- Background work ✨:
   - [Shiny](https://github.com/rstudio/shiny)  
   - [DuckDB](https://github.com/duckdb/duckdb-r)
   - [ragnar](https://github.com/tidyverse/ragnar)
