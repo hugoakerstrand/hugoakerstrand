@@ -7,12 +7,14 @@ I use code to **visualize** data, ensure **reproducibility**, and **automate** a
 ### What I am working on
 ---
 - Active project(s) 🌱:
-  - R package for flow cytometry data analysis
-  - Personal website
+  - [flod](https://github.com/hugoakerstrand/flod/tree/main): a principled approach for ML on flow cytometry data.
+  - Rust
+  - Agentic workflows
+
 
 ### Selected resources
 ---
- - *Personal website under construction 2025*
+ - [hugoakerstrand.com](https://hugoakerstrand.com)
  - [Pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=Hugo+%C3%85kerstrand&sort=date&size=50).
  - [Linkedin](https://www.linkedin.com/in/hugo-%C3%A5kerstrand-74696655/)
 
