@@ -8,7 +8,7 @@ I use code to **visualize** data, ensure **reproducibility**, and **automate** a
 ---
 - Active project(s) 🌱:
   - [flod](https://github.com/hugoakerstrand/flod/tree/main): a principled approach for ML on flow cytometry data.
-  - Rust
+  - Learning Rust, Python, TypeScript, React
   - Agentic workflows
 
 
